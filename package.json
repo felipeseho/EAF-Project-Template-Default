@@ -1,0 +1,20 @@
+{
+  "name": "eaf-project-template-default",
+  "version": "1.0.0",
+  "description": "A default project for creating EAF App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://arquiteturagol.visualstudio.com/DefaultCollection/Gol%20Enterprise%20Application%20Foundation/_git/EAF%20Project%20Template%20-%20Default"
+  },
+  "homepage": "https://arquiteturagol.visualstudio.com/Gol%20Enterprise%20Application%20Foundation/_welcome",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Gol Linhas Aéreas Inteligentes",
+  "license": "Apache-2.0"
+}
